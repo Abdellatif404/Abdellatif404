@@ -3,6 +3,7 @@
 <h3 align="left">I'm Abdellatif, a passionate developer</h3>
 
 - 🌱 I’m currently learning **Web Development**
+- ❤️ I love make mobile apps and websites that has a nice **UI/UX**
 
 <br/>
 
