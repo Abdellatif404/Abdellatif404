@@ -1,16 +1,21 @@
-<h1><👋Hi, there/><h1/>
-
-<h3 align="left">I'm Abdellatif, a passionate developer</h3>
-
-- 🌱 I’m currently learning **Web Development**
-- ❤️ I love make mobile apps and websites that has a nice **UI/UX**
+<h1 align="center">👋 Hi, I'm Abdellatif</h1>
+<h3 align="center">Software Engineer → AI Engineer | Building Production-Ready AI Systems</h3>
 
 <br/>
 
 <h3 align="left">Languages and Tools:</h3>
-  
-  ![My Skills](https://skillicons.dev/icons?i=bash,py,js,c,redux,react,dart,flutter,laravel)
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,tensorflow,sklearn,opencv,ai" alt="AI Core" />
+</p>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=django,fastapi,flask,postgres,docker" alt="Deployment" />
+</p>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,git,bash,linux" alt="Engineering Foundations" />
+</p>
 
 <br/>
 
@@ -34,15 +39,6 @@
 
   
 <!--
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdellatif404&theme=ayu-mirage" alt="abdellatif404" /></p>
 
