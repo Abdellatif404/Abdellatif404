@@ -1,53 +1,32 @@
-<h1 align="center">👋 Hi, I'm Abdellatif</h1>
-<h3 align="center">Software Engineer → AI Engineer | Building Production-Ready AI Systems</h3>
-
-<br/>
-
-<h3 align="left">Languages and Tools:</h3>
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=py,tensorflow,sklearn,opencv,ai" alt="AI Core" />
-</p>
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=django,fastapi,flask,postgres,docker" alt="Deployment" />
-</p>
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,git,bash,linux" alt="Engineering Foundations" />
-</p>
-
-<br/>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?cardType=github&username=abdellatif404&show_icons=true&locale=en&theme=ayu-mirage" alt="abdellatif404" /></p>
-  
-<br/>
-
-## Connect with me  
-<div align="left">
-
-<a href="https://discordapp.com/users/651684142269988876" target="_blank">
-<img src=https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white alt=discord style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.linkedin.com/in/abdellatif-el-bouziady" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/elbouziady" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>  
-</div>  
-
-  
-<!--
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdellatif404&theme=ayu-mirage" alt="abdellatif404" /></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdellatif404&show_icons=true&locale=en&layout=compact&theme=ayu-mirage" alt="abdellatif404" /></p>
-
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=Abdellatif404&&style=flat-square" align="center" />
-</div>  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Abdellatif El Bouziady&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI systems that work outside the notebook&descAlignY=55" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Abdellatif El Bouziady+👋;AI Engineer;AI systems that work outside the notebook" alt="Typing SVG"/>
+</div>
 
--->
+## 🛠 Tech Stack
 
-  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,docker,postgresql,django,flask,redis,elasticsearch,cpp,js,ts,react,nodejs&perline=8" />
+</p>
+
+## 🔥 Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Abdellatif404&theme=transparent&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="55%"/>
+</p>
+
+## 💡 Top Languages
+
+<p align="center">
+  <img src="https://github-readmeapp.vercel.app/api/top-langs/?username=Abdellatif404&layout=donut&theme=transparent&hide_border=true&title_color=58A6FF&text_color=c9d1d9"/>
+</p>
+
+## 🤝 Connect with me
+
+<p align="center">
+    
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abdellatif404)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elbouziady)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/651684142269988876)
+[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://abdellatif404.github.io/)
+</p>
